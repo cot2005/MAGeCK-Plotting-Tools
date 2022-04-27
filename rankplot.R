@@ -2,7 +2,6 @@
 # function to make a generic rank plot from a mageck gene summary output file.
 #
 
-library("ggbiplot")
 library("dplyr")
 library("ggplot2")
 library("ggrepel")
